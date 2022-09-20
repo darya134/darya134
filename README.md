@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=darya134&style=flat-square&color=blue" alt=""/>
 

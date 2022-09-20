@@ -1,5 +1,7 @@
 ### Hi there, I am Darya 👋
 
+![](https://komarev.com/ghpvc/?username=darya134)
+
 - 🔭 I am a data analyst based in New York City
 - 📫 How to reach me: daryailina134@x.com
 
@@ -15,8 +17,3 @@
 </p>
 
 ---
-
-
-<img src="https://komarev.com/ghpvc/?username=darya134&style=flat-square&color=blue" alt=""/>
-
-

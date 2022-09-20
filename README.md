@@ -1,7 +1,5 @@
 ### Hi there, I am Darya 👋
 
-I am a data analyst based in New York City
-
 - 🔭 I am a data analyst based in New York City
 - 📫 How to reach me: daryailina134@gmail.com
 

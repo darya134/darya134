@@ -1,5 +1,6 @@
 ### Hi there, I am Darya 👋
 
+### I am a data analyst based in New York City
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

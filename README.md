@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=darya134)
 
-- 🔭 I am a data analyst based in New York City
+- 🔭 SQL and Python-savvy data analyst
 - 📫 How to reach me: daryailina134@gmail.com
 
 ---
